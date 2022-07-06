@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:13:16 PM On 6/25/2022
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [PRJ_BLEspresso_2022-04_V0X.PrjPcb]
+   Generated File[Bill of Materials-PRJ_BLEspresso_2022-04_V0X.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:13:28 PM On 6/25/2022
