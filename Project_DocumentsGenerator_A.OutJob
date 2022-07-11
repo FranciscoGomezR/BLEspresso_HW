@@ -148,11 +148,11 @@ Configuration6_Item1=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|Ge
 OutputType7=PCBDrawing
 OutputName7=Assembly Drawing
 OutputCategory7=Documentation
-OutputDocumentPath7=Connectors_and_Cables.PCBDwf
+OutputDocumentPath7=AssemblyDrawing.PCBDwf
 OutputVariantName7=
-OutputEnabled7=0
+OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
-OutputEnabled7_OutputMedium2=0
+OutputEnabled7_OutputMedium2=1
 OutputEnabled7_OutputMedium3=0
 OutputEnabled7_OutputMedium4=0
 OutputDefault7=0
@@ -171,7 +171,7 @@ OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [PublishSettings]
-OutputFilePath1=D:\02_WS\01_Altium_Git\BLEspresso_HW\Output Documents\01_Schematics\BLEsspreso_V0.1-.PDF
+OutputFilePath1=D:\02_WS\01_Altium_Git\BLEspresso_HW\Output Documents\01_Schematics\BLEsspreso_SCH_V0_11-07-22.PDF
 ReleaseManaged1=0
 OutputBasePath1=Output Documents\
 OutputPathMedia1=[Media Name]
@@ -198,7 +198,7 @@ ShowComponentParameters1=1
 GlobalBookmarks1=0
 PDFACompliance1=Disabled
 PDFVersion1=Default
-OutputFilePath2=C:\EST_Floattech\01_Embedded_Development\01_Hardware\02_Projects\21003_StringControllerBoard\Trunk\Output Documents\02_Assembly\21003.StringControllerBoard.PDF
+OutputFilePath2=D:\02_WS\01_Altium_Git\BLEspresso_HW\Output Documents\02_Drawings\BLEsspreso_ASSY_DWG_V0_11-07-22.PDF
 ReleaseManaged2=0
 OutputBasePath2=Output Documents\
 OutputPathMedia2=[Media Name]
@@ -206,10 +206,10 @@ OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=21003.StringControllerBoard.PDF
+OutputFileName2=Project_DocumentsGenerator_A.PDF
 OutputFileNameMulti2=
-UseOutputNameForMulti2=1
-OutputFileNameSpecial2=
+UseOutputNameForMulti2=0
+OutputFileNameSpecial2==OutputFile_Header+'ASSY_DWG'+'_'+'V'+Project_Version+'_'+OutputFile_Date
 OpenOutput2=1
 PromptOverwrite2=1
 PublishMethod2=0
@@ -253,9 +253,9 @@ OutputFileNameSpecial4=
 OpenOutput4=1
 
 [GeneratedFilesSettings]
-RelativeOutputPath1=D:\02_WS\01_Altium_Git\BLEspresso_HW\Output Documents\01_Schematics\BLEsspreso_V0.1-.PDF
+RelativeOutputPath1=D:\02_WS\01_Altium_Git\BLEspresso_HW\Output Documents\01_Schematics\BLEsspreso_SCH_V0_11-07-22.PDF
 OpenOutputs1=1
-RelativeOutputPath2=C:\EST_Floattech\01_Embedded_Development\01_Hardware\02_Projects\21003_StringControllerBoard\Trunk\Output Documents\02_Assembly\21003.StringControllerBoard.PDF
+RelativeOutputPath2=D:\02_WS\01_Altium_Git\BLEspresso_HW\Output Documents\02_Drawings\BLEsspreso_ASSY_DWG_V0_11-07-22.PDF
 OpenOutputs2=1
 RelativeOutputPath3=D:\02_WS\01_Altium_Git\BLEspresso_HW\Output Documents\03_Fabrication_Files\
 OpenOutputs3=1

@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for PRJ_BLEspresso_2022-04_V0X
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -242,6 +242,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document13]
+DocumentPath=AssemblyDrawing.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Output Documents\04_BOM\BLEsspreso_BOM_V0.1_11-07-22.xlsx
 DItemRevisionGUID=
@@ -347,24 +364,24 @@ DocumentPath=Project Outputs for PRJ_BLEspresso_2022-04_V0X\Design Rule Check - 
 DItemRevisionGUID=
 
 [Parameter1]
-Name=OutputFile_Date
-Value=11-07-22
-
-[Parameter2]
 Name=ReviewerAbb
 Value=*Param
 
-[Parameter3]
+[Parameter2]
 Name=Reviewer
 Value=*Param
 
-[Parameter4]
+[Parameter3]
 Name=ReleaseDate
 Value=*Param
 
+[Parameter4]
+Name=Release_Date
+Value=7/11/2022
+
 [Parameter5]
 Name=ProjectVariant
-Value=*Param
+Value=Alpha
 
 [Parameter6]
 Name=ProjectStartDate
@@ -376,7 +393,7 @@ Value=*Param
 
 [Parameter8]
 Name=ProjectRevision
-Value=*Param
+Value=1
 
 [Parameter9]
 Name=ProjectNumber
@@ -384,7 +401,7 @@ Value=*xxxxx
 
 [Parameter10]
 Name=ProjectBoardName
-Value=*Param
+Value=BLEespresso
 
 [Parameter11]
 Name=Project_VersionDate
@@ -392,7 +409,7 @@ Value=xx/04/2022
 
 [Parameter12]
 Name=Project_Version
-Value=0.1
+Value=0
 
 [Parameter13]
 Name=PopulateLabel
@@ -403,34 +420,42 @@ Name=OutputFile_Header
 Value=BLEsspreso_
 
 [Parameter15]
-Name=MainProjectName
-Value=*Param
+Name=OutputFile_Date
+Value=11-07-22
 
 [Parameter16]
+Name=MainProjectName
+Value=BLEespresso
+
+[Parameter17]
+Name=HardwareEngineer
+Value=Francisco Gomez
+
+[Parameter18]
 Name=HardwareDesignerAbb
 Value=*Param
 
-[Parameter17]
+[Parameter19]
 Name=HardwareDesigner
 Value=FG
 
-[Parameter18]
+[Parameter20]
 Name=CompanyAddress4
 Value=The Netherlands
 
-[Parameter19]
+[Parameter21]
 Name=CompanyAddress3
 Value=1081 JK, Amsterdam
 
-[Parameter20]
+[Parameter22]
 Name=CompanyAddress2
 Value=Amstelveenseweh 732A
 
-[Parameter21]
+[Parameter23]
 Name=CompanyAddress1
 Value=
 
-[Parameter22]
+[Parameter24]
 Name=Company_Name
 Value=CADIO
 
@@ -445,7 +470,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=Project Outputs for PRJ_BLEspresso_2022-04_V0X
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
