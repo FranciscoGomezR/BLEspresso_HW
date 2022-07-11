@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: BLEsspreso_GERBER_V0.1_11-07-22.GBR   7/11/2022  4:56:40 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Layer1                                  
+.G1                 Layer2                                  
+.G2                 Layer3                                  
+.GBL                Layer4                                  
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GKO                Keep-Out Layer                          
+.GM1                Mechanical 1                            
+.GM13               Top Assembly                            
+.GM14               Bottom Assembly                         
+.GM15               Top Courtyard                           
+.GM16               Bottom Courtyard                        
+------------------------------------------------------------------------------------------

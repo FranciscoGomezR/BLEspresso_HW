@@ -1,6 +1,6 @@
-﻿Field=#~Integer~#~50|Field=Designator~String~Designator~374|Field=Manufacturer Part Number~String~Manufacturer Part Number~160|Field=Manufacturer~String~Manufacturer~224|Field=Manufacturer Part Number 2nd~String~Manufacturer Part Number 2nd~183|Field=Manufacturer 2nd~String~Manufacturer 2nd~172|Field=Description~String~Description~742|Field=Quantity~Integer~Quantity~67|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PRJ_BLEspresso_2022-04_V0X.PrjPcb|ReportField=ProjectFullPath~D:\02_WS\01_Altium\XN_BLEspresso_20220424_B\PRJ_BLEspresso_2022-04_V0X.PrjPcb|ReportField=Title~Bill of Materials For Project [PRJ_BLEspresso_2022-04_V0X.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~97|ReportField=ReportTime~12:13:17 PM|ReportField=ReportDate~6/25/2022|ReportField=ReportDateTime~6/25/2022 12:13:17 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Company_Name~CADIO|ReportField=CompanyAddress1~|ReportField=CompanyAddress2~Amstelveenseweh 732A|ReportField=CompanyAddress3~1081 JK, Amsterdam|ReportField=CompanyAddress4~The Netherlands|ReportField=HardwareDesigner~FG|ReportField=HardwareDesignerAbb~*Param|ReportField=MainProjectName~*Param|ReportField=PopulateLabel~*Param|ReportField=Project_Version~0.1|ReportField=Project_VersionDate~xx/04/2022|ReportField=ProjectBoardName~*Param|ReportField=ProjectNumber~*xxxxx|ReportField=ProjectRevision~*Param|ReportField=ProjectRevisionDate~*Param|ReportField=ProjectStartDate~xx/04/2022|ReportField=ProjectVariant~*Param|ReportField=ReleaseDate~*Param|ReportField=Reviewer~*Param|ReportField=ReviewerAbb~*Param|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~6/25/2022|ReportField=CurrentTime~11:54:44 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\02_WS\01_Altium\XN_BLEspresso_20220424_B\PRJ.003.BlockDiagram.SchDoc|ReportField=DocumentName~PRJ.003.BlockDiagram.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~6/1/2022|ReportField=Organization~|ReportField=ProjectName~PRJ_BLEspresso_2022-04_V0X.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~5|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PRJ_BLEspresso_2022-04_V0X.PrjPcb|ReportField=DataSourceFullPath~D:\02_WS\01_Altium\XN_BLEspresso_20220424_B\PRJ_BLEspresso_2022-04_V0X.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+﻿Field=#~Integer~#~50|Field=Designator~String~Designator~374|Field=Manufacturer Part Number~String~Manufacturer Part Number~160|Field=Manufacturer~String~Manufacturer~224|Field=Manufacturer Part Number 2nd~String~Manufacturer Part Number 2nd~183|Field=Manufacturer 2nd~String~Manufacturer 2nd~172|Field=Description~String~Description~742|Field=Quantity~Integer~Quantity~67|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PRJ_BLEspresso_2022-04_V0X.PrjPcb|ReportField=ProjectFullPath~D:\02_WS\01_Altium_Git\BLEspresso_HW\PRJ_BLEspresso_2022-04_V0X.PrjPcb|ReportField=Title~Bill of Materials For Project [PRJ_BLEspresso_2022-04_V0X.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~96|ReportField=ReportTime~4:57:49 PM|ReportField=ReportDate~7/11/2022|ReportField=ReportDateTime~7/11/2022 4:57:49 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=OutputFile_Date~11-07-22|ReportField=ReviewerAbb~*Param|ReportField=Reviewer~*Param|ReportField=ReleaseDate~*Param|ReportField=ProjectVariant~*Param|ReportField=ProjectStartDate~xx/04/2022|ReportField=ProjectRevisionDate~*Param|ReportField=ProjectRevision~*Param|ReportField=ProjectNumber~*xxxxx|ReportField=ProjectBoardName~*Param|ReportField=Project_VersionDate~xx/04/2022|ReportField=Project_Version~0.1|ReportField=PopulateLabel~*Param|ReportField=OutputFile_Header~BLEsspreso_|ReportField=MainProjectName~*Param|ReportField=HardwareDesignerAbb~*Param|ReportField=HardwareDesigner~FG|ReportField=CompanyAddress4~The Netherlands|ReportField=CompanyAddress3~1081 JK, Amsterdam|ReportField=CompanyAddress2~Amstelveenseweh 732A|ReportField=CompanyAddress1~|ReportField=Company_Name~CADIO|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~7/11/2022|ReportField=CurrentTime~4:56:32 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\02_WS\01_Altium_Git\BLEspresso_HW\PRJ.003.BlockDiagram.SchDoc|ReportField=DocumentName~PRJ.003.BlockDiagram.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~7/11/2022|ReportField=Organization~|ReportField=ProjectName~PRJ_BLEspresso_2022-04_V0X.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~5|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PRJ_BLEspresso_2022-04_V0X.PrjPcb|ReportField=DataSourceFullPath~D:\02_WS\01_Altium_Git\BLEspresso_HW\PRJ_BLEspresso_2022-04_V0X.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
 1|ANT400|CAP 0805|Generic|||2.38GHz, 2.4GHz, 2.6GHz Bluetooth, Wi-Fi, WiMax™, WLAN, Zigbee™ Chip RF Antenna 2.3GHz ~ 2.7GHz 2dBi, 2.5dBi, 2dBi Solder Surface Mount|1
-2|C100, C107, C500, C501|C0603C104K5RAC7867|KEMET|	0603B104K500CT|Walsin Technology Corporation|CAP CER 100 nF 50V X7R 0603|4
+2|C100, C107, C501|C0603C104K5RAC7867|KEMET|	0603B104K500CT|Walsin Technology Corporation|CAP CER 100 nF 50V X7R 0603|3
 3|C101|VY1222M43Y5UC6UV0|Vishay Beyschlag/Draloric/BC Components|||CAP CER 2200PF 760VAC Y5U RADIAL|1
 4|C102, C104, C105|GRM31CR71E106KA12L|Murata Electronics|C3216X7R1E106K160AE|TDK Corporation|CAP CER 10 uF 25V X7R 1206|3
 5|C103, C106|865060543005|Würth Elektronik|||47 µF 35 V Aluminum Electrolytic Capacitors Radial, Can - SMD 2000 Hrs @ 105°C|2
@@ -13,37 +13,37 @@
 12|C411, C412|GCM1555C1H120FA16J|Murata Electronics|C0402C120J5GACTU|KEMET|CAP CER 12 pF 50V C0G/NP0 0402|2
 13|C413|GCM21BR71C475KA73|Murata Electronics|CL21B475KOFNNNE|Samsung Electro-Mechanics|CAP CER 4.7 uF 16V X7R 0805|1
 14|C414|CGA2B2C0G1H101J050BA|TDK|CGA2B2C0G1H101J050BA|Kemet|CAP CER 100 pF 50V C0G 0402|1
-15|D100|150060VS75000|Würth Elektronik|||LED GREEN CLEAR 0603 SMD|1
-16|D200, D201|BAS21,215|Nexperia USA Inc.|||Diode Standard 200 V 200mA (DC) Surface Mount SOT-23-3|2
-17|D300, D301|150060RS75000|Würth Elektronik|||LED RED CLEAR 0603 SMD|2
-18|IC400|NRF52832-QFAB-R7|Nordic Semiconductor ASA|||IC RF TXRX+MCU BLUETOOTH 48VFQFN|1
-19|L100|SRN6045TA-560M|Bourns Inc.|||56 µH Semi-Shielded Wirewound Inductor 1.4 A 230mOhm Nonstandard|1
-20|L400|MLG1005S3N9CTD25|TDK Corporation|||3.9 nH Unshielded Multilayer Inductor 700 mA 200mOhm Max 0402 (1005 Metric)|1
-21|L401|MLZ2012N100LTD25|TDK Corporation|SMT||10 µH Shielded Multilayer Inductor 500 mA 300mOhm 0805 (2012 Metric)|1
-22|L402|HK100515NJ-TV|Taiyo Yuden|SMT||15 nH Unshielded Multilayer Inductor 300 mA 460mOhm Max 0402 (1005 Metric)|1
-23|Q300, Q301, Q302, Q303|PDTC123JT,215|Nexperia USA Inc.|||TRANS PREBIAS NPN 50V TO236AB|4
-24|R100|RC0603JR-0710RL|YAGEO|ESR03EZPJ100|Rohm Semiconductor|RES 10 OHM 5% 1/10W 0603|1
-25|R101, R103|RC0603JR-070RL|YAGEO|RMCF0603ZT0R00|Stackpole Electronics Inc|RES 0 OHM JUMPER 1/10W 0603|2
-26|R102|ERJ-3GEYJ104V|Panasonic Electronic Components|||100 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film|1
-27|R104|RC0603FR-0740K2L|YAGEO|||40.2 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film|1
-28|R105|RC0603FR-0733KL|YAGEO|||33 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film|1
-29|R106|RC0603FR-0713KL|YAGEO|||13 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film|1
-30|R107, R302, R303|ERJ-3GEYJ331V|Panasonic Electronic Components|||330 Ohms ± 5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film|3
-31|R108|RC0603JR-073K3L|YAGEO|||3.3 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film|1
-32|R109, R110, R111, R112, R201, R202, R203, R204, R206, R207, R208, R209|ESR18EZPJ333|Rohm Semiconductor|||33k Ohms ±5% 0.5W, 1/2W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film|12
-33|R200, R205, R500, R501|ERJ-3GEYJ472V|Panasonic Electronic Components|||RES SMD 4.7K OHM 5% 1/10W 0603|4
-34|R300, R301|ERJ-3GEYJ102V|Panasonic Electronic Components|||1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film|2
-35|R400, R401, R402, R403, R404, R504, R505, R506, R507|RC0603JR-0733RL|YAGEO|||33 Ohms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film|9
-36|R405, R408|RC0402JR-0710KL|YAGEO|RMCF0402JT10K0|Stackpole Electronics Inc|RES 10K OHM 5% 1/16W 0402|2
-37|R406|RMCF0402JT100R|Stackpole Electronics Inc|CRCW0402100RJNEDC|Vishay Dale|RES 100 OHM 5% 1/16W 0402|1
-38|R407|RMCF0402ZT0R00|Stackpole Electronics Inc|RC0402JR-070RL|YAGEO|RES 0 OHM JUMPER 1/16W 0402|1
-39|R502, R503|RC0603JR-07100RL|YAGEO|||100 Ohms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film|2
-40|U100|IRM-03-12|MEAN WELL USA Inc.|||AC/DC CONVERTER 12V 3W|1
-41|U101|MP1496SGJ-Z|Monolithic Power Systems Inc.|||Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 2A SOT-23-8 Thin, TSOT-23-8|1
-42|U102|140814243100|Würth Elektronik|||Optoisolator Transistor Output 5000Vrms 1 Channel 4-DIP-SL|1
-43|U200, U201|140817143200|Würth Elektronik|||Optoisolator Transistor Output 5000Vrms 1 Channel 4-DIP-SL|2
-44|U500|MCP96RL00T-E/MX|Microchip Technology|||THERMOCOUPLE I2C CONVERTER|1
-45|VR100|B72207S0301K101|EPCOS - TDK Electronics|||VARISTOR 470V 1.2KA DISC 7MM|1
+15|C500|GCM21BR72A104KA37L|Murata Electronics|CGA4J2X7R2A104K125AA|TDK Corporation|CAP CER 100 nF ±10% 100V Ceramic Capacitor X7R 0805|1
+16|D100|150060VS75000|Würth Elektronik|||LED GREEN CLEAR 0603 SMD|1
+17|D200, D201|BAS21,215|Nexperia USA Inc.|||Diode Standard 200 V 200mA (DC) Surface Mount SOT-23-3|2
+18|D300, D301|150060RS75000|Würth Elektronik|||LED RED CLEAR 0603 SMD|2
+19|IC400|NRF52832-QFAB-R7|Nordic Semiconductor ASA|||IC RF TXRX+MCU BLUETOOTH 48VFQFN|1
+20|L100|SRN6045TA-560M|Bourns Inc.|||56 µH Semi-Shielded Wirewound Inductor 1.4 A 230mOhm Nonstandard|1
+21|L400|MLG1005S3N9CTD25|TDK Corporation|||3.9 nH Unshielded Multilayer Inductor 700 mA 200mOhm Max 0402 (1005 Metric)|1
+22|L401|MLZ2012N100LTD25|TDK Corporation|SMT||10 µH Shielded Multilayer Inductor 500 mA 300mOhm 0805 (2012 Metric)|1
+23|L402|HK100515NJ-TV|Taiyo Yuden|SMT||15 nH Unshielded Multilayer Inductor 300 mA 460mOhm Max 0402 (1005 Metric)|1
+24|Q300, Q301, Q302, Q303|PDTC123JT,215|Nexperia USA Inc.|||TRANS PREBIAS NPN 50V TO236AB|4
+25|R100|RC0603JR-0710RL|YAGEO|ESR03EZPJ100|Rohm Semiconductor|RES 10 OHM 5% 1/10W 0603|1
+26|R101, R103|RC0603JR-070RL|YAGEO|RMCF0603ZT0R00|Stackpole Electronics Inc|RES 0 OHM JUMPER 1/10W 0603|2
+27|R102|ERJ-3GEYJ104V|Panasonic Electronic Components|||100 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film|1
+28|R104|RC0603FR-0740K2L|YAGEO|||40.2 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film|1
+29|R105|RC0603FR-0733KL|YAGEO|||33 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film|1
+30|R106|RC0603FR-0713KL|YAGEO|||13 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film|1
+31|R107, R302, R303|ERJ-3GEYJ331V|Panasonic Electronic Components|||330 Ohms ± 5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film|3
+32|R108|RC0603JR-073K3L|YAGEO|||3.3 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film|1
+33|R109, R110, R111, R112, R201, R202, R203, R204, R206, R207, R208, R209|ESR18EZPJ333|Rohm Semiconductor|||33k Ohms ±5% 0.5W, 1/2W Chip Resistor 1206 (3216 Metric) Automotive AEC-Q200, Pulse Withstanding Thick Film|12
+34|R200, R205, R500, R501|ERJ-3GEYJ472V|Panasonic Electronic Components|||RES SMD 4.7K OHM 5% 1/10W 0603|4
+35|R300, R301|ERJ-3GEYJ102V|Panasonic Electronic Components|||1 kOhms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Automotive AEC-Q200 Thick Film|2
+36|R400, R401, R402, R403, R404, R504, R505, R506, R507|RES 0402|Generic|||Generic RES|9
+37|R405, R408|RC0402JR-0710KL|YAGEO|RMCF0402JT10K0|Stackpole Electronics Inc|RES 10K OHM 5% 1/16W 0402|2
+38|R406|RMCF0402JT100R|Stackpole Electronics Inc|CRCW0402100RJNEDC|Vishay Dale|RES 100 OHM 5% 1/16W 0402|1
+39|R407|RMCF0402ZT0R00|Stackpole Electronics Inc|RC0402JR-070RL|YAGEO|RES 0 OHM JUMPER 1/16W 0402|1
+40|R502, R503|RC0603JR-07100RL|YAGEO|||100 Ohms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film|2
+41|U100|IRM-03-12|MEAN WELL USA Inc.|||AC/DC CONVERTER 12V 3W|1
+42|U101|MP1496SGJ-Z|Monolithic Power Systems Inc.|||Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 2A SOT-23-8 Thin, TSOT-23-8|1
+43|U102|140814243100|Würth Elektronik|||Optoisolator Transistor Output 5000Vrms 1 Channel 4-DIP-SL|1
+44|U200, U201|140817143200|Würth Elektronik|||Optoisolator Transistor Output 5000Vrms 1 Channel 4-DIP-SL|2
+45|U500|MCP96RL00T-E/MX|Microchip Technology|||THERMOCOUPLE I2C CONVERTER|1
 46|X100|OQ0532510000G|Amphenol Anytek|||5 Position Terminal Block Header, Male Pins, Shrouded (4 Side) 0.150" (3.81mm) 90°, Right Angle Through Hole|1
 47|X101|691313510005|Würth Elektronik|||5 Position Terminal Block Header, Male Pins, Shrouded (4 Side) 0.200" (5.08mm) 90°, Right Angle Through Hole|1
 48|X400|20021121-00010|Amphenol ICC (FCI)|||CONN HEADER SMD 10POS 1.27MM|1

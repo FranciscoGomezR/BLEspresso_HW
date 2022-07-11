@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for PRJ_BLEspresso_2022-04_V0X
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -208,93 +208,231 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JDXXHJNT
 
+[Document11]
+DocumentPath=PRJ_BLEspresso_2022-04_V0X.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=RFDFGHMA
+
+[Document12]
+DocumentPath=Gerber_11_07_22.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for PRJ_BLEspresso_2022-04_V0X\Footprint Comparison - PRJ_BLEspresso_2022-04_V0X.html
+DocumentPath=Output Documents\04_BOM\BLEsspreso_BOM_V0.1_11-07-22.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for PRJ_BLEspresso_2022-04_V0X\PRJ_BLEspresso_2022-04_V0X.xlsx
+DocumentPath=Output Documents\03_Fabrication_Files\NC Drill\BLEsspreso_GERBER_V0.1_11-07-22-Plated.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Output Documents\03_Fabrication_Files\NC Drill\BLEsspreso_GERBER_V0.1_11-07-22.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.G1
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.G2
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GM14
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Output Documents\03_Fabrication_Files\NC Drill\BLEsspreso_GERBER_V0.1_11-07-22.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.REP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Output Documents\03_Fabrication_Files\Gerber\BLEsspreso_GERBER_V0.1_11-07-22.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for PRJ_BLEspresso_2022-04_V0X\Design Rule Check - PRJ_BLEspresso_2022-04_V0X.html
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Company_Name
-Value=CADIO
+Name=OutputFile_Date
+Value=11-07-22
 
 [Parameter2]
-Name=CompanyAddress1
-Value=
+Name=ReviewerAbb
+Value=*Param
 
 [Parameter3]
-Name=CompanyAddress2
-Value=Amstelveenseweh 732A
+Name=Reviewer
+Value=*Param
 
 [Parameter4]
-Name=CompanyAddress3
-Value=1081 JK, Amsterdam
+Name=ReleaseDate
+Value=*Param
 
 [Parameter5]
-Name=CompanyAddress4
-Value=The Netherlands
+Name=ProjectVariant
+Value=*Param
 
 [Parameter6]
-Name=HardwareDesigner
-Value=FG
+Name=ProjectStartDate
+Value=xx/04/2022
 
 [Parameter7]
-Name=HardwareDesignerAbb
+Name=ProjectRevisionDate
 Value=*Param
 
 [Parameter8]
-Name=MainProjectName
+Name=ProjectRevision
 Value=*Param
 
 [Parameter9]
-Name=PopulateLabel
-Value=*Param
+Name=ProjectNumber
+Value=*xxxxx
 
 [Parameter10]
-Name=Project_Version
-Value=0.1
+Name=ProjectBoardName
+Value=*Param
 
 [Parameter11]
 Name=Project_VersionDate
 Value=xx/04/2022
 
 [Parameter12]
-Name=ProjectBoardName
-Value=*Param
+Name=Project_Version
+Value=0.1
 
 [Parameter13]
-Name=ProjectNumber
-Value=*xxxxx
-
-[Parameter14]
-Name=ProjectRevision
+Name=PopulateLabel
 Value=*Param
 
+[Parameter14]
+Name=OutputFile_Header
+Value=BLEsspreso_
+
 [Parameter15]
-Name=ProjectRevisionDate
+Name=MainProjectName
 Value=*Param
 
 [Parameter16]
-Name=ProjectStartDate
-Value=xx/04/2022
+Name=HardwareDesignerAbb
+Value=*Param
 
 [Parameter17]
-Name=ProjectVariant
-Value=*Param
+Name=HardwareDesigner
+Value=FG
 
 [Parameter18]
-Name=ReleaseDate
-Value=*Param
+Name=CompanyAddress4
+Value=The Netherlands
 
 [Parameter19]
-Name=Reviewer
-Value=*Param
+Name=CompanyAddress3
+Value=1081 JK, Amsterdam
 
 [Parameter20]
-Name=ReviewerAbb
-Value=*Param
+Name=CompanyAddress2
+Value=Amstelveenseweh 732A
+
+[Parameter21]
+Name=CompanyAddress1
+Value=
+
+[Parameter22]
+Name=Company_Name
+Value=CADIO
 
 [Configuration1]
 Name=Sources
@@ -305,6 +443,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for PRJ_BLEspresso_2022-04_V0X
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1015,14 +1156,14 @@ Type1=1
 Type2=1
 Type3=1
 Type4=1
-Type5=1
-Type6=1
+Type5=0
+Type6=0
 Type7=1
 Type8=1
 Type9=1
 Type10=1
 Type11=1
-Type12=1
+Type12=0
 Type13=1
 Type14=1
 Type15=1
