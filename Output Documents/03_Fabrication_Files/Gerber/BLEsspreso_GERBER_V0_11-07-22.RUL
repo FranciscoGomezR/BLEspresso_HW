@@ -1,0 +1,11 @@
+DRC Rules Export File for PCB: C:\Users\Juan\Documents\BLEspresso_HW\PRJ_BLEspresso_2022-04_V0X.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.36
+RuleKind=Clearance|RuleName=clr_NRF_room|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=clr_RF_Trace|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=w_RF|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=clr_U101_room|Scope=Board|Minimum=9.06
+RuleKind=Clearance|RuleName=clr_PWR_IN|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=clr_PWR|Scope=Board|Minimum=7.87

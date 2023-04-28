@@ -1,0 +1,490 @@
+*************************************************************
+FileName = BLEsspreso_GERBER_V0_11-07-22.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Courtyard
+      File : BLEsspreso_GERBER_V0_11-07-22.GM16
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+    D122
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : BLEsspreso_GERBER_V0_11-07-22.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D122
+*************************************************************
+
+*************************************************************
+Generating : Bottom Assembly
+      File : BLEsspreso_GERBER_V0_11-07-22.GM14
+
+    Adding Layer      : Bottom Assembly
+
+
+Used DCodes :
+    D13
+    D121
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : BLEsspreso_GERBER_V0_11-07-22.GM13
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D13
+    D121
+    D122
+    D123
+    D124
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : BLEsspreso_GERBER_V0_11-07-22.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : BLEsspreso_GERBER_V0_11-07-22.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BLEsspreso_GERBER_V0_11-07-22.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : BLEsspreso_GERBER_V0_11-07-22.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Layer4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D24
+    D26
+    D28
+    D29
+    D37
+    D39
+    D46
+    D112
+    D119
+    D120
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : BLEsspreso_GERBER_V0_11-07-22.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Layer4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D49
+    D50
+    D57
+    D59
+    D61
+    D62
+    D71
+    D73
+    D80
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D116
+    D117
+    D118
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : BLEsspreso_GERBER_V0_11-07-22.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Layer1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : BLEsspreso_GERBER_V0_11-07-22.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Layer1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : BLEsspreso_GERBER_V0_11-07-22.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : BLEsspreso_GERBER_V0_11-07-22.GPT
+
+    Adding Layer      : Layer1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D95
+    D96
+    D97
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : BLEsspreso_GERBER_V0_11-07-22.GPB
+
+    Adding Layer      : Layer4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D24
+    D26
+    D28
+    D29
+    D37
+    D39
+    D46
+    D95
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D110
+    D111
+    D112
+*************************************************************
+
+*************************************************************
+Generating : Layer4
+      File : BLEsspreso_GERBER_V0_11-07-22.GBL
+
+    Adding Layer      : Layer4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D13
+    D17
+    D24
+    D26
+    D28
+    D29
+    D37
+    D39
+    D46
+    D92
+    D94
+    D95
+    D98
+    D99
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+*************************************************************
+
+*************************************************************
+Generating : Layer3
+      File : BLEsspreso_GERBER_V0_11-07-22.G2
+
+    Adding Layer      : Layer3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D105
+    D106
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : Layer2
+      File : BLEsspreso_GERBER_V0_11-07-22.G1
+
+    Adding Layer      : Layer2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D105
+    D106
+    D108
+    D109
+*************************************************************
+
+*************************************************************
+Generating : Layer1
+      File : BLEsspreso_GERBER_V0_11-07-22.GTL
+
+    Adding Layer      : Layer1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D17
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+*************************************************************
+
